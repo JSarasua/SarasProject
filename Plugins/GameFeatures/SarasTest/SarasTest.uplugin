@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SarasTest",
+	"Description": "Where I test out new game features",
+	"Category": "Game Features",
+	"CreatedBy": "Jonathan S",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "ShooterCore",
+			"Enabled": true
+		}
+	]
+}
